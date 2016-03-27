@@ -1,0 +1,13 @@
+{
+  "name": "NODE",
+  "version": "0.0.0",
+  "private": true,
+  "main" : "server.js",
+  "dependencies" : {
+    "express"         : "~4.13.4",
+    "mongoose"        : "~4.4.10",
+    "morgan"          : "~1.1.1",
+    "body-parser"     : "~1.4.3",
+    "method-override" : "~2.1.1"
+  }
+}
