@@ -1,0 +1,5 @@
+As an enhancement to the existing requirements I have displayed the orders taken, based on the priority of its serving.
+That is along with the name of the food item and price, the priority of its serving is to be given as input.
+This will assist Emeril in deciding which orders to be served first.
+ 
+For example, A starter would have priorty 1, main course would have priority 2 and a desert would have priority 3 (1 being highest priority and 3 being least). The items displayed would be in the order in which they have to be served. 
